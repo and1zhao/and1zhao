@@ -16,4 +16,4 @@ Feel free to reach out to me just to talk! You can contact me on [![LinkedIn][2.
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/and1zhao
-[2]: https://www.linkedin.com/andyzhao2000
+[2]: https://www.linkedin.com/in/andyzhao2000
