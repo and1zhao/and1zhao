@@ -1,6 +1,6 @@
 ### Hey everyone! 👋
 
-My name is Andy Zhao and I'm a junior at UC Berkeley studying Computer Science and Statistics. I think an interesting intersection of my two majors is the quantitative world, and so I'm trying to educate myself on trading and the stock market in general to familiarize myself with this world!
+My name is Andy Zhao and I'm currently working full-time at a startup in Santa Clara called Clumio.
 
 In my free time, I enjoy catching up on the latest NBA and NFL games. In fact, my friends and I created a podcast called [Bursting the Bubble](https://redcircle.com/shows/the-four-horsemen), available on most major platforms. I would very much appreciate it if you would give it a listen and perhaps give it a follow!
 
